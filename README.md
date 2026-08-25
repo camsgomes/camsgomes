@@ -27,7 +27,7 @@
 <table align="center" width="80%">
   <tr>
     <td width="55%" valign="middle">
-      <p>I'm Camila Gomes, from Esperança — PB, Brazil, undergraduate student in Computer Science at the Federal University of Campina Grande.</p>
+      <p>I'm Camila Gomes, from Esperança — PB, student in Computer Science at the Federal University of Campina Grande.</p>
       <br>
       <p>Frontend and Backend are part of my formation as means to a greater interest: Data and Artificial Intelligence.</p>
       <br>
