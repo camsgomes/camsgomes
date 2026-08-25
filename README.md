@@ -50,15 +50,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/camila-gomes-006845306/">
-    <img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=flat-square&logo=linkedin&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=flat-square&logo=linkedin&logoColor=white" height="50"/>
   </a>
   &nbsp;
   <a href="mailto:camila.gms.santos@gmail.com">
-    <img src="https://img.shields.io/badge/Email-9D4EDD?style=flat-square&logo=gmail&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/Email-9D4EDD?style=flat-square&logo=gmail&logoColor=white" height="50"/>
   </a>
   &nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-C77DFF?style=flat-square&logo=googlechrome&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/Portfolio-C77DFF?style=flat-square&logo=googlechrome&logoColor=white" height="50"/>
   </a>
 </p>
 
