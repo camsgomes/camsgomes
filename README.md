@@ -116,9 +116,3 @@
     alt="Most Used Languages"
   />
 </p>
-
-<!-- ========================= FOOTER ======================= -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=camsgomes&color=9D4EDD&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</p>
