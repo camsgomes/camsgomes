@@ -22,15 +22,17 @@
 
 <br>
 
-<table align="center" width="85%">
+<table align="center" width="80%">
   <tr>
-    <td width="55%" valign="top">
-      <p>
-        <!-- Escreva aqui sobre você: de onde vem, o que estuda, o que te motiva, seus objetivos -->
-      </p>
+    <td width="55%" valign="middle">
+      <p>I'm Camila Gomes, from Esperança — PB, Brazil, undergraduate student in Computer Science at the Federal University of Campina Grande.</p>
+      <br>
+      <p>Frontend and Backend are part of my formation as means to a greater interest: Data and Artificial Intelligence.</p>
+      <br>
+      <p>I believe technology has more value when it impacts real lives, whether by solving a problem directly or by enabling its solution through the interpretation and understanding of a given reality, for those who need to make decisions based on it.</p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="./assets/programming.jpeg" width="75%" alt="Programming illustration"/>
+      <img src="./assets/programming.jpeg" width="80%" alt="Programming illustration"/>
     </td>
   </tr>
 </table>
@@ -65,35 +67,33 @@
 
 <h2 align="center">Tech Stack</h2>
 
-<p align="center">Technologies and tools I'm currently learning and working with.</p>
-
 <br>
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="120"><strong>💻 Languages</strong></td>
+    <td align="center" width="140"><strong>💻 Languages</strong></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,java,js,ts,sql" height="36" alt="Languages"/>
+      <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" height="36" alt="Languages"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>⚙️ Backend</strong></td>
+    <td align="center"><strong>📦 Frameworks & Libs</strong></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,spring" height="36" alt="Backend"/>
+      <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="Frameworks and Libraries"/>
     </td>
   </tr>
   <tr>
     <td align="center"><strong>🗄️ Database</strong></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql" height="36" alt="Database"/>
+      <img src="https://skillicons.dev/icons?i=postgresql" height="36" alt="Database"/>
     </td>
   </tr>
   <tr>
     <td align="center"><strong>🔧 Tools</strong></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="36" alt="Tools"/>
+      <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux" height="36" alt="Tools"/>
     </td>
   </tr>
 </table>
@@ -111,14 +111,8 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=camsgomes&hide_border=true&background=0D1117&ring=C77DFF&fire=9D4EDD&currStreakLabel=C77DFF&sideLabels=E0AAFF&currStreakNum=E0AAFF&sideNums=E0AAFF&dates=E0AAFF"
-    height="170"
-    alt="GitHub Streak"
-  />
-  &nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=camsgomes&layout=compact&hide_border=true&langs_count=8&title_color=C77DFF&text_color=E0AAFF&bg_color=0D1117"
-    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camsgomes&theme=github_dark"
+    height="180"
     alt="Most Used Languages"
   />
 </p>
