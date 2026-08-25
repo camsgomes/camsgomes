@@ -7,7 +7,9 @@
 
 <!-- ===================== INTRODUCTION ===================== -->
 
-<h1 align="center">Hi, I'm Camila 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=C77DFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Camila+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <strong>Computer Science Student &nbsp;•&nbsp; Software Developer &nbsp;•&nbsp; Data & AI Enthusiast</strong>
@@ -42,7 +44,7 @@
 
 <!-- ======================== CONTACT ======================= -->
 
-<h2 align="center">Contact me</h2>
+<h2 align="center">Contact</h2>
 
 <br>
 
