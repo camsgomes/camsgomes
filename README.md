@@ -42,7 +42,7 @@
 
 <!-- ======================== CONTACT ======================= -->
 
-<h2 align="center">Let's Connect</h2>
+<h2 align="center">Contact me</h2>
 
 <br>
 
